@@ -1,0 +1,128 @@
+.navbar{
+    display: flex;
+
+}
+
+.logo h1{
+   font-size:5rem ; 
+   padding-left: 2rem;
+}
+
+.navitems ul li{
+    padding: 15px;
+    padding-bottom: 10px;
+    display: inline-block;
+    font-size:25px;
+    text-decoration: none;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.search input{
+    border-radius: 10px;
+    border-width: 1px;
+}
+
+.container img{
+    border-radius: 5px;
+    height:30rem;
+
+}
+.images{
+    background-color:rgba(255, 255, 255, 0.336);
+    display: flex;
+
+}
+.line1 img{
+    width:6.5rem ;
+    height: 9rem;
+    margin-left: 5rem;
+    border-radius: 5px; 
+    box-shadow: black;
+}
+.images p{
+    font-size: x-large;
+    font-weight:bold ;
+    margin-left: 2px;
+}
+.line2 img{
+    width:6.5rem ;
+    height: 9rem;
+    margin-left: 5rem;
+    border-radius: 5px; 
+    box-shadow: black;
+}
+
+.line3 img{
+    width:6.5rem ;
+    height: 9rem;
+    margin-left: 5rem;
+    border-radius: 5px;
+    box-shadow: black;
+
+}
+
+
+.wcoll h2{
+   margin-left: 4rem; 
+   font-size: 2.5rem;
+}
+.container1{
+    display: flex;
+   justify-content: space-between;
+   margin-left: 4rem;
+   margin-right:4rem ;
+}
+
+.mcoll h2{
+    margin-left: 4rem;
+    font-size: 2.5rem;
+}
+.container2 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+.footer{
+    background-color: rgba(0, 0, 0, 0.477);
+    color: white;
+    height: 20rem;
+    margin-top: 15rem;
+    display: flex;  
+}
+
+.firstrow ul{
+  margin-top: 3rem;
+}
+.firstrow  a{
+    text-decoration: none;
+    font-weight: 600;
+    color: white; 
+}
+.firstrow h3{
+    margin-left: 2rem;
+}
+
+.firstrow li{
+    list-style: none;
+    margin-top: 2rem;
+}
+.secondrow a{
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+    
+}
+.secondrow{
+    margin-left: 7rem;
+    }
+.secondrow li{
+    list-style: none;
+    margin-top: 2rem;
+}
+.secondrow h3{
+    margin-left: 2rem;
+}
+.secondrow ul{
+    margin-top: 3rem;
+  }
